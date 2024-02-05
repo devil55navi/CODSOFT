@@ -1,0 +1,13 @@
+
+
+                              RESUME
+
+ 
+Name            : Naveen A
+Age                : 20
+Skill                : Communication skill 
+                         language skills : c,c++,java,html  
+Qualification : B.sc.Computer Science
+Experience    :  2 years
+Salary expectation : 30000
+
